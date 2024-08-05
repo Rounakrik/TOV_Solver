@@ -1,12 +1,3 @@
-import numpy as np
-import math as mth
-import matplotlib.pyplot as plt
-from matplotlib import rcParams
-rcParams['text.usetex'] = True
-rcParams["font.family"] = "Times New Roman"
-
-# G = 1
-# c = 1
 Solar_mass_in_km = 1.47662504
 
 def Energy_Density_function(Pressure):
