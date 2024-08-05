@@ -36,6 +36,6 @@ You can install these packages using `pip`:
 
 ```bash
 pip install numpy scipy matplotlib ipython
-
+```
 ## Acknowledgments
 Thanks to the developers of numpy, scipy, matplotlib, and IPython for their valuable libraries, which made this project possible.
